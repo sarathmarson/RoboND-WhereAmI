@@ -26,5 +26,5 @@ For launching amcl node:
 
  'rvizconfig.rviz' file is used to visualize the output
  
-![alt text](images/3.jpg)
-![alt text](images/4.jpg)
+![alt text](images/3.JPG)
+![alt text](images/4.JPG)
