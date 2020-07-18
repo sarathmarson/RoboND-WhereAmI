@@ -26,5 +26,7 @@ For launching amcl node:
 
  'rvizconfig.rviz' file is used to visualize the localization output 
  
+ The screenshots are attached below:
+ 
 ![alt text](images/3.JPG)
 ![alt text](images/4.JPG)
