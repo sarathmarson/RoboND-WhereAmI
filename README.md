@@ -30,3 +30,6 @@ For launching amcl node:
  
 ![alt text](images/3.JPG)
 ![alt text](images/4.JPG)
+
+![alt text](images/whereami.gif)
+
