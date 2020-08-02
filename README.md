@@ -1,6 +1,9 @@
 # RoboND-WhereAmI
 The objective of this Project is to localize the robot (created in the previous project. Refer to my Go-Chase It udacity Project.) in the map created and test it using amcl node and Rviz.
 
+## AMCL
+Localization is performed using amcl(adaptive monte carlo localization) algorithm, where the particles converges to the actual position of the robot as it navigates. The resampling of particles are based on the particle weights so that only the particles very near to the actual position of robot will survive.
+
 ## Implementation
 
 This is developed with gazebo workspace. 
